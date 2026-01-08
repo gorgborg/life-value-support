@@ -1,4 +1,4 @@
-# # Life Value – App Support
+# Life Value – App Support
 
 **Life Value** is an iOS application designed to help users create and maintain a living record of their family across generations.
 
